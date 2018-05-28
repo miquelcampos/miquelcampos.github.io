@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miquel Campos Portfolio</title>
-    <link>https://example.org/</link>
+    <link>https://miquelcampos.github.io/</link>
     <description>Recent content on Miquel Campos Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
     
-	<atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://miquelcampos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Share The Joy</title>
-      <link>https://example.org/portfolio/001_share_the_joy/</link>
+      <link>https://miquelcampos.github.io/portfolio/001_share_the_joy/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/001_share_the_joy/</guid>
+      <guid>https://miquelcampos.github.io/portfolio/001_share_the_joy/</guid>
       <description>&lt;p&gt;A short, happy, jazzy tale about giving of oneself.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>mGear Framework</title>
-      <link>https://example.org/portfolio/002_mgear/</link>
+      <link>https://miquelcampos.github.io/portfolio/002_mgear/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/002_mgear/</guid>
+      <guid>https://miquelcampos.github.io/portfolio/002_mgear/</guid>
       <description>&lt;p&gt;Open source rigging and animation framework for Autodesk&amp;reg; Maya&amp;reg;.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -35,10 +35,10 @@
     
     <item>
       <title>Character TD reel</title>
-      <link>https://example.org/portfolio/003_character_td_reel/</link>
+      <link>https://miquelcampos.github.io/portfolio/003_character_td_reel/</link>
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
-      <guid>https://example.org/portfolio/003_character_td_reel/</guid>
+      <guid>https://miquelcampos.github.io/portfolio/003_character_td_reel/</guid>
       <description>&lt;p&gt;Old Character TD demo reel from 2013.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
