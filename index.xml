@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miquel Campos</title>
@@ -6,7 +6,7 @@
     <description>Recent content on Miquel Campos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 18:25:22 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 06 Nov 2016 13:00:25 +0530</lastBuildDate>
     
 	<atom:link href="https://miquelcampos.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,8 +17,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://miquelcampos.github.io/portfolio/001_share_the_joy/</guid>
-      <description>&lt;p&gt;A short, happy, jazzy tale about giving of oneself.
-&lt;/p&gt;</description>
+      <description>&lt;p&gt;A short, happy, jazzy tale about giving of oneself.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -27,9 +26,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://miquelcampos.github.io/portfolio/002_mgear/</guid>
-      <description>&lt;p&gt;Open source rigging and animation framework for Autodesk&amp;reg; Maya&amp;reg;.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Open source rigging and animation framework for Autodesk® Maya®.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -38,9 +35,7 @@
       <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
       
       <guid>https://miquelcampos.github.io/portfolio/003_character_td_reel/</guid>
-      <description>&lt;p&gt;Old Character TD demo reel from 2013.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+      <description>&lt;p&gt;Old Character TD demo reel from 2013.&lt;/p&gt;</description>
     </item>
     
   </channel>
